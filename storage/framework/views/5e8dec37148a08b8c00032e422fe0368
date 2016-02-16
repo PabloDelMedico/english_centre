@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html class=" js canvas no-touch csstransforms csstransforms3d csstransitions video audio localstorage sessionstorage svg inlinesvg" lang="">
+<head>
+
+    <?php include "_head.php"; ?>
+
+</head>
+
+<body>
+<div class="app">
+
+    <?php echo $__env->yieldContent('header'); ?>
+
+    <section class="layout">
+
+        <?php echo $__env->yieldContent('menu'); ?>
+
+        <section class="main-content">
+            <div class="fffix">
+                <div class="content-wrap">
+                    <div class="wrapper">
+                        PABLO
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </section>
+
+</div>
+
+<script src="js/jquery-1.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/jquery_003.js"></script>
+<script src="js/jquery_009.js"></script>
+<script src="js/fastclick.js"></script>
+<script src="js/jquery.js"></script>
+<!--<script src="js/jquery_004.js"></script>-->
+<!--<script src="js/dashboard.js"></script>-->
+<script src="js/main.js"></script>
+
+</body>
+</html>

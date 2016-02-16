@@ -1,0 +1,11 @@
+<?php $__env->startSection('content'); ?>
+    <?php foreach($listNews as $news): ?>
+        <?php echo e($news->id); ?>
+
+        <?php echo e($news->title); ?>
+
+        <?php echo e($news->description); ?>
+
+    <?php endforeach; ?>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('admin.layout.default', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

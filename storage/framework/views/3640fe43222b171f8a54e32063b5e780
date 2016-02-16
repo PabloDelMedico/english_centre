@@ -1,0 +1,9 @@
+<script src="/admin_public/js/jquery-1.js"></script>
+<script src="/admin_public/js/bootstrap.js"></script>
+<script src="/admin_public/js/jquery_003.js"></script>
+<script src="/admin_public/js/jquery_009.js"></script>
+<script src="/admin_public/js/fastclick.js"></script>
+<script src="/admin_public/js/jquery.js"></script>
+<!--<script src="admin_public_public/js/jquery_004.js"></script>-->
+<!--<script src="admin_public_public/js/dashboard.js"></script>-->
+<script src="/admin_public/js/main.js"></script>
